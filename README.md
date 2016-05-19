@@ -9,4 +9,8 @@ This is the template's source code of [Codecourse's login/register tutorial seri
 1. [Download the ZIP archive](https://github.com/pedzed/codecourse-login-register-template/archive/master.zip) and extract it, or clone this repo.
 1. Move the `src` files to your web server.
 
+## Preview
+
+![Codecourse/PHP Academy login/register template](preview.png)
+
 *All credit is due to [Alex Garrett](https://github.com/alexgarrett).*
